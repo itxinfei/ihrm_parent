@@ -1,0 +1,71 @@
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+/ihrm_attendance/target
+/ihrm_common/target
+/ihrm_common_model/target
+/ihrm_company/target
+/ihrm_system/target
+/ihrm_employee/target
+/ihrm_eureka/target
+/ihrm_gate/target
+/ihrm_social_securitys/target
+/ihrm_audit/target
+/ihrm_salarys/target
+
+/ihrm_common/*.iml
+/ihrm_common_model/*.iml
+/ihrm_company/*.iml
+/ihrm_system/*.iml
+/ihrm_employee/*.iml
+/ihrm_eureka/*.iml
+/ihrm_gate/*.iml
+/ihrm_social_securitys/*.iml
+/ihrm_audit/*.iml
+/ihrm_salarys/*.iml
+/ihrm_attendance/*.iml
+
